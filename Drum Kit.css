@@ -1,0 +1,51 @@
+.key{
+    border: 0.4rem solid black;
+    border-radius: 0.5rem;
+    margin: 1rem;
+    font-size: 1.5rem;
+    color: white;
+    padding: 1rem 0.5rem;
+    transition: all 0.07s ease;
+    text-shadow: 0 0.5rem 1rem black;
+    box-shadow: 0 0.5rem 1rem black;
+    outline: none;
+    background: url("https://wallpapercave.com/w/uwp4184133") center no-repeat;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+  
+  .playing {
+    transform: scale(1.1);
+    border-color: #ffc600;
+    box-shadow: 0 0.5rem 1rem #ffc600;
+  }
+  
+  .keys {
+    display: flex;
+    flex: 1;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  kbd {
+    display: block;
+    font-size: 4rem;
+  }
+  
+  .sound {
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    color: #ffc600;
+}
+
+.body{
+    background-image: url("https://th.bing.com/th/id/OIP.phKFkSeTKSNkmRzwzkHvuQHaFj?w=202&h=180&c=7&r=0&o=5&pid=1.7");
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
