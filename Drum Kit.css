@@ -1,9 +1,9 @@
 .key{
-    border: 0.4rem solid black;
-    border-radius: 0.5rem;
+    border: 0.4rem  black;
+    border-radius: 0.5rem rounded;
     margin: 1rem;
     font-size: 1.5rem;
-    color: white;
+    color: rgb(23, 219, 209);
     padding: 1rem 0.5rem;
     transition: all 0.07s ease;
     text-shadow: 0 0.5rem 1rem black;
@@ -16,8 +16,8 @@
   
   .playing {
     transform: scale(1.1);
-    border-color: #ffc600;
-    box-shadow: 0 0.5rem 1rem #ffc600;
+    border-color: #ff00aa;
+    box-shadow: 0 0.5rem 1rem #ff00aa;
   }
   
   .keys {
@@ -37,7 +37,7 @@
     font-size: 1.2rem;
     text-transform: uppercase;
     letter-spacing: 0.1rem;
-    color: #ffc600;
+    color: #ff00c8;
 }
 
 .body{
