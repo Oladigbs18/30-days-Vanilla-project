@@ -41,7 +41,7 @@
 }
 
 .body{
-    background-image: url("C:\Users\DELL\30-days-Vanilla-project\30-days-Vanilla-project\istockphoto-1356757340-612x612.jpg");
+    background-image: url("./istockphoto-1356757340-612x612.jpg");
     background-size: cover;
     background-position: center;
     min-height: 100vh;
