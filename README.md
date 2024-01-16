@@ -1,1 +1,1 @@
-Day 1 Vanilla Javascript Challenge with WesBos
+WesBos 30 Days Vanilla Javasript Challenge💋😍❤💕💋
